@@ -8,11 +8,7 @@ return (
 			
 			<div style={{ marginTop: 25, marginBottom: 25 }} className="home-title">
 				Disfruta de
-				<img 
-					src="assets/RedAkiraLetters.png" 
-					alt="Akira" 
-					style={{ height: '46px', marginLeft: 16, paddingTop: 6}} 
-				/>
+				
 			</div>
 
 			<div className="home-avatar" style={{ marginTop: 35, marginBottom: 35 }} >
